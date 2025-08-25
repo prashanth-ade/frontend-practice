@@ -41,4 +41,20 @@ Ans: In 1990 "Tim Berners Lee" introduced HTML
          - These are the elements, which are not native to browser.
          - They need additional library.
             eX: SVG, Canvas, MathML etc..
+
+Web pages are classified into 2 types
+   a) Static Page
+      -Static refer to contineous memory.
+      -The memory allocated for first object will continue for the objects.
+      -Static page contains extentions
+                .html
+                .htm
+   b) Dynamic Page
+      -dynamic refer to discrete memory.
+      -Memory is newly allocated for every object.
+      -Dynamic page contains extentions 
+                .asp
+                .aspx
+                .jsp
+                .php etc...
      
