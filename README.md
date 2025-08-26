@@ -57,4 +57,19 @@ Web pages are classified into 2 types
                 .aspx
                 .jsp
                 .php etc...
-     
+
+
+BOOTSTRAP ICONS FOR WEB DESIGN:
+   1) open the vs code
+   2) Open terminal and switch to command prompt
+   3) Run the following command
+         >npm install bootstrap-icons --save
+   4) This will be add a new folder into your project by name "node_modules"
+   5) All icons are present in a css file "node_module/bootstrap-icons/font/bootstrap-icons.css"
+   6) Link the css file into the your page
+         <head>
+              <link rel="stylesheet" href="../node_module/bootstrap-icons/font/bootstrap-icons.css">
+         </head>
+   7) Apply icon using <div> and <span> with bootstrap icon class name
+        ex: <div class="bi bi-house"></div>
+        
