@@ -73,3 +73,5 @@ BOOTSTRAP ICONS FOR WEB DESIGN:
    7) Apply icon using <div> and <span> with bootstrap icon class name
         ex: <div class="bi bi-house"></div>
         
+Note: To install bootstrap icons you must install "Node js" in PC
+
