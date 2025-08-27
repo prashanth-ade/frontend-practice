@@ -75,3 +75,21 @@ BOOTSTRAP ICONS FOR WEB DESIGN:
         
 Note: To install bootstrap icons you must install "Node js" in PC
 
+BODY SEMANTICS:
+ -Semanties refers to element ment for a specific purpose.
+ -The name defines what its purpose is.
+ -HTML have over 100 semantics.
+ -Body section semantics used for designing a layout are
+       SEMANTICS                            DESCRIPTION
+ 1) <header></header>            -         Content to display at top margin of page.
+ 2) <footer></footer>            -         Content to display at bottom margin of page
+ 3) <section></section>          -         Content to display at between header and footer.
+ 4) <main></main>                -         It defines content used as entry point
+ 5) <article></article>          -         It defines highlights of page
+ 6) <aside></aside>              -         It contains information that is not relative to the current page
+ 7) <nav></nav>                  -         It defines navigation area
+ 8) <dialog></dialog>            -         It configure a pop-up
+ 9) <figure></figure>            -         It encapsulates any image or graphic with caption
+ 10) <figcaption></figcaption>   -         It sets SEO friendly caption for image
+ 11) <div></div>                 -         It is a division
+ 12) <span>                      -         It spans the content along existing, however it can separate the content to highlight.
