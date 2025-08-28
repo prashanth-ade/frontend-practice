@@ -93,3 +93,23 @@ BODY SEMANTICS:
  10) <figcaption></figcaption>   -         It sets SEO friendly caption for image
  11) <div></div>                 -         It is a division
  12) <span>                      -         It spans the content along existing, however it can separate the content to highlight.
+
+
+HTML BODY SEMANTICS & ENTITIES
+  1) line breck: It is defined by using <br>
+  2) Black Space: They are defined by using "&nbsp"
+       syntax: H &nbsp;&nbsp; T M L
+  3) Prefirmatted Text: It is defined by using <pre> element
+      - It keeps the formats in page exactly as defined in editor
+       syntax: <pre>
+                  line-1
+                  line-2
+                  line-3
+               </pre>
+  4) Variables: They  are defined by using <var> element
+  5) Sample Text: It is defined by using <samp> element
+  6) Code Block: It is defined by using <code> element
+  7) Large Text: It is defined by using <big> element
+  8) Small Text: It is defined by using <small> element
+
+ 
