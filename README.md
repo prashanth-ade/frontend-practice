@@ -110,6 +110,6 @@ HTML BODY SEMANTICS & ENTITIES
   5) Sample Text: It is defined by using <samp> element
   6) Code Block: It is defined by using <code> element
   7) Large Text: It is defined by using <big> element
-  8) Small Text: It is defined by using <small> element
+  8) Small Text: It is defined by using <small> elements are 
 
  
