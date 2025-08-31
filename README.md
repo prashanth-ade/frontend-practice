@@ -2,7 +2,7 @@
 Ans: application propramming interface (API). it provide data to client into format of JSON & XML
 
 2Q: what is the HTML?
-Ans: HTML stands for the Hyper Text Markup Language(HTML)
+Ans: HTML stands for the Hyper Text Markup Language( HTML )
      -> Hyper Text refer to the text that takes user beyond the content what he view on screen
      -> Markup Language is a language used for presentation
 
