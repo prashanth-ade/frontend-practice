@@ -77,7 +77,7 @@ Note: To install bootstrap icons you must install "Node js" in PC
 
 BODY SEMANTICS:
  -Semanties refers to element ment for a specific purpose.
- -The name defines what its purpose is.
+ -The name defines what its purpose is
  -HTML have over 100 semantics.
  -Body section semantics used for designing a layout are
        SEMANTICS                            DESCRIPTION
