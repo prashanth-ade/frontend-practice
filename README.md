@@ -4,7 +4,7 @@ Ans: application propramming interface (API). it provide data to client into for
 2Q: what is the HTML?
 Ans: HTML stands for the Hyper Text Markup Language( HTML )
      -> Hyper Text refer to the text that takes user beyond the content what he view on screen
-     -> Markup Language is a language used for presentation
+     -> Markup Language is a language used for  presentation
 
 3Q: Evolution of HTML?
 Ans: In 1990 "Tim Berners Lee" introduced HTML
